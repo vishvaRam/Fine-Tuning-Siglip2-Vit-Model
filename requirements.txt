@@ -1,0 +1,11 @@
+ultralytics
+numpy
+transformers
+datasets
+accelerate
+evaluate
+matplotlib
+scikit-learn
+pillow
+imbalanced-learn
+bing-image-downloader
